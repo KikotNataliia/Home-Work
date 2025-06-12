@@ -3,3 +3,4 @@
 #{Тест-кейс}(https://natakikot.testrail.io/index.php?/dashboard) 
 #{БАГ}(https://nstorozheva2016.atlassian.net/jira/software/projects/HEAD/boards/4) 
 #{Тест-кейс2}(https://docs.google.com/document/d/1VldyQMxUpnB7tmrgxPJxIsHjnhXEjE5bPWFtP4Dz8-g/edit?usp=sharing) 
+#{БАГ репорт}(https://docs.google.com/spreadsheets/d/1WUk0DJQmC4yIRBTJ6_BPk0HoxANLc66XuA3rZXaz5w8/edit?usp=sharing) 
